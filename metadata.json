@@ -1,0 +1,8 @@
+{
+  "name": "SKL Aethelon",
+  "description": "A professional AI assistant created by Shreeman Iyer.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
